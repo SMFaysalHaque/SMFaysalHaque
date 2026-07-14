@@ -7,10 +7,10 @@ import { profile } from "@/data/profile";
 export function Logo({ className }: { className?: string }) {
   return (
     <Image
-      src="/images/logo.png"
+      src="/images/logo-source.png"
       alt={profile.name}
       width={1536}
-      height={441}
+      height={496}
       priority
       className={cn("h-auto w-auto object-contain", className)}
     />
