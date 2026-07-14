@@ -17,9 +17,9 @@ export function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 w-full border-b border-border/60 bg-background/70 backdrop-blur-lg supports-[backdrop-filter]:bg-background/60">
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6 lg:px-8">
+      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6 lg:h-20 lg:px-8">
         <Link href="/#home" aria-label={profile.name} className="shrink-0">
-          <Logo className="h-8 w-auto sm:h-9" />
+          <Logo className="h-10 w-auto sm:h-12 lg:h-14" />
         </Link>
 
         <nav className="hidden items-center gap-8 md:flex">

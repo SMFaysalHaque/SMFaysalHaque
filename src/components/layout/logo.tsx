@@ -10,7 +10,7 @@ export function Logo({ className }: { className?: string }) {
       src="/images/logo.png"
       alt={profile.name}
       width={1536}
-      height={1024}
+      height={441}
       priority
       className={cn("h-auto w-auto object-contain", className)}
     />
