@@ -52,7 +52,7 @@ export function HeroSection() {
               size="lg"
               variant="outline"
               className="rounded-full"
-              render={<a href={profile.resumeUrl} download />}
+              render={<a href={profile.resumeUrl} download="CV_S. M. Faysal Haque_Software_Engineer.pdf" />}
             >
               <Download className="size-4" /> Download CV
             </Button>
@@ -76,6 +76,9 @@ export function HeroSection() {
             <span className="flex min-w-0 flex-col">
               <span className="text-sm font-semibold text-foreground">
                 Chat with me on Telegram
+              </span>
+              <span className="text-xs font-medium text-foreground/80">
+                {profile.phoneDisplay}
               </span>
               <span className="text-xs text-muted-foreground">
                 Click to scan the QR code and message me

@@ -7,6 +7,7 @@ import { Menu } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger, SheetTitle } from "@/components/ui/sheet";
 import { ThemeToggle } from "@/components/layout/theme-toggle";
+import { Logo } from "@/components/layout/logo";
 import { navLinks } from "@/components/layout/site-config";
 import { GithubIcon } from "@/components/icons/brand-icons";
 import { profile } from "@/data/profile";
@@ -17,11 +18,8 @@ export function Navbar() {
   return (
     <header className="sticky top-0 z-50 w-full border-b border-border/60 bg-background/70 backdrop-blur-lg supports-[backdrop-filter]:bg-background/60">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6 lg:px-8">
-        <Link
-          href="/#home"
-          className="font-heading text-lg font-semibold tracking-tight"
-        >
-          S. M. <span className="bg-gradient-to-r from-violet-500 to-sky-400 bg-clip-text text-transparent">Faysal Haque</span>
+        <Link href="/#home" aria-label={profile.name} className="shrink-0">
+          <Logo className="h-8 w-auto sm:h-9" />
         </Link>
 
         <nav className="hidden items-center gap-8 md:flex">
