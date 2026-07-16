@@ -18,16 +18,24 @@ type TelegramQrDialogProps = {
   className?: string
   "aria-label"?: string
   children: React.ReactNode
+  /** Render the trigger as a custom element (e.g. a whole Card). */
+  render?: React.ReactElement
 }
 
 export function TelegramQrDialog({
   className,
   "aria-label": ariaLabel,
   children,
+  render,
 }: TelegramQrDialogProps) {
   return (
     <Dialog>
-      <DialogTrigger className={cn("cursor-pointer", className)} aria-label={ariaLabel}>
+      <DialogTrigger
+        className={cn("cursor-pointer", className)}
+        aria-label={ariaLabel}
+        render={render}
+        nativeButton={render ? false : undefined}
+      >
         {children}
       </DialogTrigger>
       <DialogContent className="items-center">

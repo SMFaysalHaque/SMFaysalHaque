@@ -1,8 +1,7 @@
 import Link from "next/link";
 
 import { navLinks } from "@/components/layout/site-config";
-import { GithubIcon, FacebookIcon, TelegramIcon } from "@/components/icons/brand-icons";
-import { TelegramQrDialog } from "@/components/layout/telegram-qr";
+import { GithubIcon, LinkedinIcon, FacebookIcon } from "@/components/icons/brand-icons";
 import { profile } from "@/data/profile";
 
 export function Footer() {
@@ -35,15 +34,12 @@ export function Footer() {
             <IconLink href={profile.socials.github} label="GitHub">
               <GithubIcon className="size-4" />
             </IconLink>
+            <IconLink href={profile.socials.linkedin} label="LinkedIn">
+              <LinkedinIcon className="size-4" />
+            </IconLink>
             <IconLink href={profile.socials.facebook} label="Facebook">
               <FacebookIcon className="size-4" />
             </IconLink>
-            <TelegramQrDialog
-              aria-label="Chat with me on Telegram"
-              className="flex size-9 items-center justify-center rounded-full border border-border/60 text-muted-foreground transition-colors hover:border-transparent hover:bg-accent hover:text-foreground"
-            >
-              <TelegramIcon className="size-4" />
-            </TelegramQrDialog>
           </div>
         </div>
 

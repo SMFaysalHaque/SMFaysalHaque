@@ -14,6 +14,7 @@ export const profile: Profile = {
   resumeUrl: "/resume/S-M-Faysal-Haque-Software-Engineer.pdf",
   socials: {
     github: "https://github.com/SMFaysalHaque",
+    linkedin: "https://www.linkedin.com/in/s-m-faysal-haque-7332b0422",
     facebook: "https://www.facebook.com/s.m.faysal.haque.2024/",
     telegram: "https://t.me/+8801788315890",
   },

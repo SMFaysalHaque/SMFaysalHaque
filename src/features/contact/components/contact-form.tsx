@@ -50,7 +50,11 @@ export function ContactForm() {
   };
 
   return (
-    <form onSubmit={handleSubmit(onSubmit)} className="space-y-5" noValidate>
+    <form
+      onSubmit={handleSubmit(onSubmit)}
+      className="space-y-5 lg:flex lg:min-h-0 lg:flex-1 lg:flex-col lg:space-y-0 lg:gap-5"
+      noValidate
+    >
       {/* Honeypot: hidden from real users; bots that auto-fill forms will tick it
           and get rejected. Not a visible field — no label, off the tab order. */}
       <input
@@ -63,11 +67,11 @@ export function ContactForm() {
       />
 
       <div className="grid gap-5 sm:grid-cols-2">
-        <Field label="Your name" htmlFor="name" error={errors.name?.message}>
+        <Field label="Your name" htmlFor="name" required error={errors.name?.message}>
           <Input id="name" placeholder="Jane Doe" {...register("name")} aria-invalid={!!errors.name} />
         </Field>
 
-        <Field label="Email address" htmlFor="email" error={errors.email?.message}>
+        <Field label="Email address" htmlFor="email" required error={errors.email?.message}>
           <Input
             id="email"
             type="email"
@@ -78,17 +82,18 @@ export function ContactForm() {
         </Field>
       </div>
 
-      <Field label="Message" htmlFor="message" error={errors.message?.message}>
+      <Field label="Message" htmlFor="message" required grow error={errors.message?.message}>
         <Textarea
           id="message"
           rows={5}
           placeholder="Tell me a bit about your project or opportunity…"
+          className="resize-y [field-sizing:fixed] lg:min-h-0 lg:flex-1 lg:resize-none"
           {...register("message")}
           aria-invalid={!!errors.message}
         />
       </Field>
 
-      <Button type="submit" size="lg" className="w-full rounded-full sm:w-auto" disabled={submitting}>
+      <Button type="submit" size="lg" className="w-full rounded-full sm:w-auto lg:self-start" disabled={submitting}>
         {submitting ? <Loader2 className="mr-1 size-4 animate-spin" /> : null}
         Send email
       </Button>
@@ -99,17 +104,33 @@ export function ContactForm() {
 function Field({
   label,
   htmlFor,
+  required,
+  grow,
   error,
   children,
 }: {
   label: string;
   htmlFor: string;
+  required?: boolean;
+  grow?: boolean;
   error?: string;
   children: React.ReactNode;
 }) {
   return (
-    <div className="space-y-1.5">
-      <Label htmlFor={htmlFor}>{label}</Label>
+    <div
+      className={cn(
+        "space-y-1.5",
+        grow && "lg:flex lg:min-h-0 lg:flex-1 lg:flex-col lg:space-y-0 lg:gap-1.5"
+      )}
+    >
+      <Label htmlFor={htmlFor}>
+        {label}
+        {required ? (
+          <span className="text-destructive" aria-hidden="true">
+            *
+          </span>
+        ) : null}
+      </Label>
       {children}
       {error ? <p className={cn("text-sm text-destructive")}>{error}</p> : null}
     </div>

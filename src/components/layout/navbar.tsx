@@ -9,7 +9,7 @@ import { Sheet, SheetContent, SheetTrigger, SheetTitle } from "@/components/ui/s
 import { ThemeToggle } from "@/components/layout/theme-toggle";
 import { Logo } from "@/components/layout/logo";
 import { navLinks } from "@/components/layout/site-config";
-import { GithubIcon } from "@/components/icons/brand-icons";
+import { GithubIcon, LinkedinIcon, FacebookIcon } from "@/components/icons/brand-icons";
 import { profile } from "@/data/profile";
 
 export function Navbar() {
@@ -42,6 +42,22 @@ export function Navbar() {
             render={<a href={profile.socials.github} target="_blank" rel="noreferrer" aria-label="GitHub" />}
           >
             <GithubIcon className="size-5" />
+          </Button>
+          <Button
+            variant="ghost"
+            size="icon"
+            className="rounded-full"
+            render={<a href={profile.socials.linkedin} target="_blank" rel="noreferrer" aria-label="LinkedIn" />}
+          >
+            <LinkedinIcon className="size-5" />
+          </Button>
+          <Button
+            variant="ghost"
+            size="icon"
+            className="rounded-full"
+            render={<a href={profile.socials.facebook} target="_blank" rel="noreferrer" aria-label="Facebook" />}
+          >
+            <FacebookIcon className="size-5" />
           </Button>
           <ThemeToggle />
 
