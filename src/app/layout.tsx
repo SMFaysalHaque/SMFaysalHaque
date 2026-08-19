@@ -7,6 +7,8 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { Toaster } from "@/components/ui/sonner";
 import { Navbar } from "@/components/layout/navbar";
 import { Footer } from "@/components/layout/footer";
+import { ScrollProgress } from "@/components/layout/scroll-progress";
+import { BackToTop } from "@/components/layout/back-to-top";
 import { profile } from "@/data/profile";
 
 const geistSans = Geist({
@@ -55,9 +57,11 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col">
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           <TooltipProvider>
+            <ScrollProgress />
             <Navbar />
             <main className="flex-1">{children}</main>
             <Footer />
+            <BackToTop />
             <Toaster position="bottom-right" />
           </TooltipProvider>
         </ThemeProvider>

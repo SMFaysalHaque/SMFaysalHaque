@@ -39,9 +39,9 @@ export function AboutSection() {
         <div className="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {facts.map((fact, i) => (
             <Reveal key={fact.label} delay={i * 0.08}>
-              <Card className="h-full border-border/60">
+              <Card className="group glow-border relative h-full border-border/60 ring-1 ring-border/60 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-violet-500/10">
                 <CardContent className="flex items-start gap-4">
-                  <span className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-violet-500/15 to-sky-400/15 text-violet-500">
+                  <span className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-violet-500/15 to-sky-400/15 text-violet-500 transition-transform duration-300 group-hover:scale-110">
                     <fact.icon className="size-5" />
                   </span>
                   <div className="min-w-0">

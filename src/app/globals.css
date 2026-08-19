@@ -129,6 +129,89 @@
   }
 }
 
+/* ------------------------------------------------------------------ *
+ * Fancy decorative animations                                         *
+ * All are wrapped in a prefers-reduced-motion guard at the bottom.    *
+ * ------------------------------------------------------------------ */
+
+/* Shimmer: sweeps a highlight across a clipped gradient (e.g. the hero
+   name). The element must set `background-size: 200% auto` and clip to
+   text; we only animate the background position. */
+@keyframes text-shimmer {
+  to {
+    background-position: 200% center;
+  }
+}
+
+.animate-text-shimmer {
+  background-size: 200% auto;
+  animation: text-shimmer 5s linear infinite;
+}
+
+/* Aurora: two soft blobs drift on slightly different paths so the hero
+   backdrop feels alive without ever calling attention to itself. */
+@keyframes aurora-drift-a {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(6%, 8%, 0) scale(1.12);
+  }
+}
+
+@keyframes aurora-drift-b {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1.05);
+  }
+  50% {
+    transform: translate3d(-8%, -6%, 0) scale(0.95);
+  }
+}
+
+.aurora-a {
+  animation: aurora-drift-a 16s ease-in-out infinite;
+}
+
+.aurora-b {
+  animation: aurora-drift-b 20s ease-in-out infinite;
+}
+
+/* Faint dotted grid, faded out toward the edges. Layered behind the hero
+   content to add texture. */
+.dot-grid {
+  background-image: radial-gradient(
+    color-mix(in oklab, var(--foreground) 12%, transparent) 1px,
+    transparent 1px
+  );
+  background-size: 22px 22px;
+}
+
+/* Underline that draws itself in from the left when revealed. Toggle by
+   adding `.is-drawn` (we do this from the Reveal's whileInView). */
+.underline-draw {
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 0.7s cubic-bezier(0.22, 1, 0.36, 1) 0.15s;
+}
+
+.underline-draw.is-drawn {
+  transform: scaleX(1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-text-shimmer,
+  .aurora-a,
+  .aurora-b {
+    animation: none;
+  }
+  .underline-draw {
+    transition: none;
+    transform: scaleX(1);
+  }
+}
+
 /* Reusable animated gradient border, revealed on hover.
    Apply `.glow-border` to any element with rounded corners and a solid
    background (e.g. a Card). Used by the skills and projects cards. */
