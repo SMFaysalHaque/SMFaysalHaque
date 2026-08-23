@@ -9,6 +9,7 @@ import { Navbar } from "@/components/layout/navbar";
 import { Footer } from "@/components/layout/footer";
 import { ScrollProgress } from "@/components/layout/scroll-progress";
 import { BackToTop } from "@/components/layout/back-to-top";
+import { Analytics } from "@vercel/analytics/next";
 import { profile } from "@/data/profile";
 
 const geistSans = Geist({
@@ -63,6 +64,7 @@ export default function RootLayout({
             <Footer />
             <BackToTop />
             <Toaster position="bottom-right" />
+            <Analytics />
           </TooltipProvider>
         </ThemeProvider>
       </body>
