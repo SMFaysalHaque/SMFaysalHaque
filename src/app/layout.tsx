@@ -53,6 +53,10 @@ export default function RootLayout({
     <html
       lang="en"
       suppressHydrationWarning
+      // With scroll-smooth on <html>, this tells Next 16 to still force an
+      // instant scroll-to-top on route transitions (its pre-16 default),
+      // while keeping smooth scrolling for in-page anchor navigation.
+      data-scroll-behavior="smooth"
       className={`${geistSans.variable} ${geistMono.variable} h-full scroll-smooth antialiased`}
     >
       <body className="min-h-full flex flex-col">
