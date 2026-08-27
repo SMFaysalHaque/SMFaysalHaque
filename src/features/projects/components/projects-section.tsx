@@ -6,6 +6,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Reveal } from "@/components/motion/reveal";
 import { SectionHeading } from "@/components/layout/section-heading";
 import { ProjectCard } from "@/features/projects/components/project-card";
+import { ProjectCoverflow } from "@/features/projects/components/project-coverflow";
 import { getProjectsByCategory } from "@/features/projects/lib/get-project";
 import type { Project, ProjectCategory } from "@/types";
 
@@ -71,8 +72,8 @@ export function ProjectsSection() {
             </TabsList>
           </div>
 
-          <TabsContent value="work" className="mt-8">
-            <ProjectGrid projects={workProjects} />
+          <TabsContent value="work" className="mt-10">
+            <ProjectCoverflow projects={workProjects} />
           </TabsContent>
           <TabsContent value="personal" className="mt-8">
             <ProjectGrid projects={personalProjects} />
