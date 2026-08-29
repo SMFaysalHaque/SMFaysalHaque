@@ -35,22 +35,34 @@ Building production web applications with<br/>
 
 ### 🛠️ Tech Stack
 
+**Languages**
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />&nbsp;<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />&nbsp;<img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
+</p>
+
 **Frontend**
 
 <p>
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />&nbsp;<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;<img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />&nbsp;<img src="https://img.shields.io/badge/Nuxt-0D1117?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt" />&nbsp;<img src="https://img.shields.io/badge/Astro-0D1117?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro" />
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />&nbsp;<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />&nbsp;<img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />&nbsp;<img src="https://img.shields.io/badge/Nuxt-0D1117?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt" />&nbsp;<img src="https://img.shields.io/badge/Astro-0D1117?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro" />&nbsp;<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />&nbsp;<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
 
 **UI &amp; Styling**
 
 <p>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />&nbsp;<img src="https://img.shields.io/badge/Material_UI-0D1117?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI" />&nbsp;<img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui" />&nbsp;<img src="https://img.shields.io/badge/Radix_UI-0D1117?style=flat-square&logo=radixui&logoColor=FFFFFF" alt="Radix UI" />&nbsp;<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />&nbsp;<img src="https://img.shields.io/badge/Material_UI-0D1117?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI" />&nbsp;<img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui" />&nbsp;<img src="https://img.shields.io/badge/Radix_UI-0D1117?style=flat-square&logo=radixui&logoColor=FFFFFF" alt="Radix UI" />&nbsp;<img src="https://img.shields.io/badge/Vuetify-0D1117?style=flat-square&logo=vuetify&logoColor=1867C0" alt="Vuetify" />&nbsp;<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
 </p>
 
-**State, Data &amp; Forms**
+**State &amp; Forms**
 
 <p>
-<img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square" alt="Zustand" />&nbsp;<img src="https://img.shields.io/badge/Pinia-0D1117?style=flat-square&logo=pinia&logoColor=FFD859" alt="Pinia" />&nbsp;<img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />&nbsp;<img src="https://img.shields.io/badge/React_Hook_Form-0D1117?style=flat-square&logo=reacthookform&logoColor=EC5990" alt="React Hook Form" />&nbsp;<img src="https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=3E67B1" alt="Zod" />&nbsp;<img src="https://img.shields.io/badge/Axios-0D1117?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" />&nbsp;<img src="https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL" />
+<img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square" alt="Zustand" />&nbsp;<img src="https://img.shields.io/badge/Vuex-0D1117?style=flat-square&logo=vuex&logoColor=4FC08D" alt="Vuex" />&nbsp;<img src="https://img.shields.io/badge/Pinia-0D1117?style=flat-square&logo=pinia&logoColor=FFD859" alt="Pinia" />&nbsp;<img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />&nbsp;<img src="https://img.shields.io/badge/React_Hook_Form-0D1117?style=flat-square&logo=reacthookform&logoColor=EC5990" alt="React Hook Form" />&nbsp;<img src="https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=3E67B1" alt="Zod" />
+</p>
+
+**Data &amp; Networking**
+
+<p>
+<img src="https://img.shields.io/badge/Axios-0D1117?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" />&nbsp;<img src="https://img.shields.io/badge/Apollo-0D1117?style=flat-square&logo=apollographql&logoColor=FFFFFF" alt="Apollo" />&nbsp;<img src="https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL" />&nbsp;<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=json&logoColor=FFFFFF" alt="REST APIs" />&nbsp;<img src="https://img.shields.io/badge/Recharts-0D1117?style=flat-square&logo=recharts&logoColor=FFFFFF" alt="Recharts" />&nbsp;<img src="https://img.shields.io/badge/MUI_X_Charts-0D1117?style=flat-square&logo=mui&logoColor=007FFF" alt="MUI X Charts" />
 </p>
 
 **Real-time**
@@ -59,16 +71,22 @@ Building production web applications with<br/>
 <img src="https://img.shields.io/badge/Socket.IO-0D1117?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO" />&nbsp;<img src="https://img.shields.io/badge/SignalR-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4" alt="SignalR" />
 </p>
 
-**Backend &amp; Database**
+**Auth &amp; Backend**
 
 <p>
-<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />&nbsp;<img src="https://img.shields.io/badge/Gorilla_Mux-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Gorilla Mux" />&nbsp;<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=json&logoColor=FFFFFF" alt="REST APIs" />
+<img src="https://img.shields.io/badge/NextAuth.js-0D1117?style=flat-square&logo=authjs&logoColor=FFFFFF" alt="NextAuth.js / Auth.js" />&nbsp;<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />&nbsp;<img src="https://img.shields.io/badge/Gorilla_Mux-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Gorilla Mux" />
 </p>
 
-**Engineering Tools**
+**i18n &amp; Tooling**
 
 <p>
-<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />&nbsp;<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />&nbsp;<img src="https://img.shields.io/badge/ESLint-0D1117?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />&nbsp;<img src="https://img.shields.io/badge/Prettier-0D1117?style=flat-square&logo=prettier&logoColor=F7B93E" alt="Prettier" />&nbsp;<img src="https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" />&nbsp;<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+<img src="https://img.shields.io/badge/next--intl-0D1117?style=flat-square" alt="next-intl" />&nbsp;<img src="https://img.shields.io/badge/Nuxt_i18n-0D1117?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt i18n" />&nbsp;<img src="https://img.shields.io/badge/next--themes-0D1117?style=flat-square" alt="next-themes" />&nbsp;<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />&nbsp;<img src="https://img.shields.io/badge/ESLint-0D1117?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />&nbsp;<img src="https://img.shields.io/badge/Prettier-0D1117?style=flat-square&logo=prettier&logoColor=F7B93E" alt="Prettier" />&nbsp;<img src="https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" />
+</p>
+
+**Dev Tools**
+
+<p>
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />&nbsp;<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />&nbsp;<img src="https://img.shields.io/badge/GitLab-0D1117?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" />&nbsp;<img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />&nbsp;<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />&nbsp;<img src="https://img.shields.io/badge/Chrome_DevTools-0D1117?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Chrome DevTools" />&nbsp;<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />&nbsp;<img src="https://img.shields.io/badge/Slack-0D1117?style=flat-square&logo=slack&logoColor=FFFFFF" alt="Slack" />&nbsp;<img src="https://img.shields.io/badge/Mattermost-0D1117?style=flat-square&logo=mattermost&logoColor=0058CC" alt="Mattermost" />&nbsp;<img src="https://img.shields.io/badge/Trello-0D1117?style=flat-square&logo=trello&logoColor=0052CC" alt="Trello" />
 </p>
 
 ---
