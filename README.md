@@ -38,25 +38,37 @@ Building production web applications with<br/>
 **Frontend**
 
 <p>
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />&nbsp;<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;<img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />&nbsp;<img src="https://img.shields.io/badge/Nuxt-0D1117?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt" />&nbsp;<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />&nbsp;<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;<img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />&nbsp;<img src="https://img.shields.io/badge/Nuxt-0D1117?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt" />&nbsp;<img src="https://img.shields.io/badge/Astro-0D1117?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro" />
+</p>
+
+**UI &amp; Styling**
+
+<p>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />&nbsp;<img src="https://img.shields.io/badge/Material_UI-0D1117?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI" />&nbsp;<img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui" />&nbsp;<img src="https://img.shields.io/badge/Radix_UI-0D1117?style=flat-square&logo=radixui&logoColor=FFFFFF" alt="Radix UI" />&nbsp;<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+</p>
+
+**State, Data &amp; Forms**
+
+<p>
+<img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square" alt="Zustand" />&nbsp;<img src="https://img.shields.io/badge/Pinia-0D1117?style=flat-square&logo=pinia&logoColor=FFD859" alt="Pinia" />&nbsp;<img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />&nbsp;<img src="https://img.shields.io/badge/React_Hook_Form-0D1117?style=flat-square&logo=reacthookform&logoColor=EC5990" alt="React Hook Form" />&nbsp;<img src="https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=3E67B1" alt="Zod" />&nbsp;<img src="https://img.shields.io/badge/Axios-0D1117?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" />&nbsp;<img src="https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL" />
+</p>
+
+**Real-time**
+
+<p>
+<img src="https://img.shields.io/badge/Socket.IO-0D1117?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO" />&nbsp;<img src="https://img.shields.io/badge/SignalR-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4" alt="SignalR" />
 </p>
 
 **Backend &amp; Database**
 
 <p>
-<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />&nbsp;<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=json&logoColor=FFFFFF" alt="REST APIs" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-</p>
-
-**Real-time &amp; State**
-
-<p>
-<img src="https://img.shields.io/badge/Socket.IO-0D1117?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO" />&nbsp;<img src="https://img.shields.io/badge/SignalR-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4" alt="SignalR" />&nbsp;<img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />&nbsp;<img src="https://img.shields.io/badge/Pinia-0D1117?style=flat-square&logo=pinia&logoColor=FFD859" alt="Pinia" />&nbsp;<img src="https://img.shields.io/badge/React_Context-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React Context" />
+<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />&nbsp;<img src="https://img.shields.io/badge/Gorilla_Mux-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Gorilla Mux" />&nbsp;<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=json&logoColor=FFFFFF" alt="REST APIs" />
 </p>
 
 **Engineering Tools**
 
 <p>
-<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />&nbsp;<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />&nbsp;<img src="https://img.shields.io/badge/ESLint-0D1117?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />&nbsp;<img src="https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" />
+<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />&nbsp;<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />&nbsp;<img src="https://img.shields.io/badge/ESLint-0D1117?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />&nbsp;<img src="https://img.shields.io/badge/Prettier-0D1117?style=flat-square&logo=prettier&logoColor=F7B93E" alt="Prettier" />&nbsp;<img src="https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" />&nbsp;<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
 ---
@@ -66,20 +78,22 @@ Building production web applications with<br/>
 **Junior Software Engineer** &nbsp;—&nbsp; **TechnoNext Software Limited**<br/>
 <sub>`Sep 2025 — Present`</sub>
 
-Building production web applications with **Next.js, React, and TypeScript**.
+Building production web applications with **Next.js 16, React 19, and TypeScript**.
 
-- **Lunch Management admin dashboard** — menu &amp; dish management, order tracking, employee management, a multi-stage complaint workflow, QR-based meal scanning, and downloadable reports.
-- **NextExtract API Gateway user portal** — API catalog, subscriptions, and credit-metered API consumption over a gateway.
+- **Foodi &amp; Cartup** (live products) — resolved production UI issues and shipped new features across Cartup's admin panel, including seller address validation and advanced query filtering, plus fixes to Foodi's inventory module.
+- **NextExtract** — independently led the end-to-end front end of a credit-metered API-gateway SaaS: an API catalog with a live "try-the-API" console, encrypted SSR/API responses, and custom UI animations.
+- **Lunch Management admin dashboard** — menus, orders, employees, a 4-stage complaint workflow, QR-based check-in, and downloadable reports (Material-UI).
+- Auth &amp; route protection with **NextAuth.js / Auth.js + JWT**; analytics &amp; real-time dashboards with **Recharts / MUI X Charts**; state via **Zustand, React Hook Form, Zod**; feature-sliced architecture, **next-intl** (EN/BN), and dark mode.
 
 <br/>
 
 **Junior Front-End Developer** &nbsp;—&nbsp; **Sayburgh Solutions Limited**<br/>
 <sub>`Apr 2023 — Sep 2025`</sub>
 
-Frontend development with **Vue.js, Nuxt.js, and React**.
+Frontend development with **Nuxt, Vue, and React**.
 
-- **FoodQo** restaurant-management SaaS — homepage, About Us, and pricing interfaces.
-- Online course / instructor page, a food-delivery product, and a tax-payment product.
+- **FoodQo (RMS)** SaaS — built the homepage, About Us, and pricing pages with **Nuxt 2, Storyblok CMS, Nuxt i18n, and Tailwind CSS**.
+- Instructor course pages and an **e-Food delivery platform** (Nuxt 3, TypeScript, Pinia) with service-worker-based token refresh, plus a tax-payment product for Eid-Ul-Adha.
 
 ---
 
