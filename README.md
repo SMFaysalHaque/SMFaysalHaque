@@ -37,34 +37,27 @@ Building production web applications with<br/>
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
-<img src="https://img.shields.io/badge/Nuxt-0D1117?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<p>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />&nbsp;<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;<img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />&nbsp;<img src="https://img.shields.io/badge/Nuxt-0D1117?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt" />&nbsp;<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+</p>
 
 **Backend &amp; Database**
 
-<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
-<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=json&logoColor=FFFFFF" alt="REST APIs" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<p>
+<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />&nbsp;<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=json&logoColor=FFFFFF" alt="REST APIs" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+</p>
 
 **Real-time &amp; State**
 
-<img src="https://img.shields.io/badge/Socket.IO-0D1117?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO" />
-<img src="https://img.shields.io/badge/SignalR-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4" alt="SignalR" />
-<img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
-<img src="https://img.shields.io/badge/Pinia-0D1117?style=flat-square&logo=pinia&logoColor=FFD859" alt="Pinia" />
-<img src="https://img.shields.io/badge/React_Context-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React Context" />
+<p>
+<img src="https://img.shields.io/badge/Socket.IO-0D1117?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO" />&nbsp;<img src="https://img.shields.io/badge/SignalR-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4" alt="SignalR" />&nbsp;<img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />&nbsp;<img src="https://img.shields.io/badge/Pinia-0D1117?style=flat-square&logo=pinia&logoColor=FFD859" alt="Pinia" />&nbsp;<img src="https://img.shields.io/badge/React_Context-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React Context" />
+</p>
 
 **Engineering Tools**
 
-<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/ESLint-0D1117?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />
-<img src="https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" />
+<p>
+<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />&nbsp;<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />&nbsp;<img src="https://img.shields.io/badge/ESLint-0D1117?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />&nbsp;<img src="https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" />
+</p>
 
 ---
 
