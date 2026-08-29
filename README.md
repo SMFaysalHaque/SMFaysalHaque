@@ -1,36 +1,93 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">S. M. Faysal Haque</h1>
 
-## Getting Started
+<p align="center"><b>Software Engineer</b></p>
 
-First, run the development server:
+<p align="center">
+  3+ years building production web applications — strong frontend expertise,<br/>
+  with hands-on backend &amp; database work.
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  React · Next.js · TypeScript · Vue · Nuxt
+  |
+  Go · PostgreSQL · REST APIs
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p align="center">
+  <a href="https://smfaysalhaque.vercel.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/s-m-faysal-haque/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:smfaysalhaque007@gmail.com">Email</a>
+</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### About
 
-## Learn More
+- Software Engineer at **TechnoNext Software Limited**, building fast, accessible, and maintainable web applications.
+- 3+ years across the **React / Next.js** and **Vue / Nuxt** ecosystems, with hands-on **Go** and **PostgreSQL** work.
+- I care about clean architecture, type safety, and interfaces that feel effortless to use.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Professional Experience
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**TechnoNext Software Limited** — Junior Software Engineer<br/>
+<sub>Sep 2025 – Present</sub>
 
-## Deploy on Vercel
+Building production web applications with **Next.js, React, and TypeScript**.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Lunch Management admin dashboard** for organization-wide employee meal services — menu &amp; dish management, order tracking, employee management, a multi-stage complaint workflow, QR-based meal scanning, and downloadable reports.
+- **NextExtract API Gateway user portal** — API catalog, subscriptions, credit-metered API consumption, and an encrypted API gateway.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Sayburgh Solutions Limited** — Junior Front-End Developer<br/>
+<sub>Apr 2023 – Sep 2025</sub>
+
+Frontend development with **Vue.js, Nuxt.js, and React**.
+
+- **FoodQo** restaurant-management SaaS — homepage, About Us, and pricing interfaces.
+- Online course / instructor page.
+- Food delivery product.
+- Tax-payment product for Eid-Ul-Adha.
+
+---
+
+### Technical Skills
+
+**Frontend** — React, Next.js, TypeScript, JavaScript, Vue, Nuxt, Tailwind CSS<br/>
+**State &amp; Data** — TanStack Query (React Query), Pinia, React Context<br/>
+**Real-time** — Socket.IO, SignalR<br/>
+**Tooling** — Vite, Git, ESLint, Vitest
+
+**Backend &amp; Database**
+
+- **Go** — building RESTful APIs (`net/http`, `gorilla/mux`), routing, and request handling.
+- **PostgreSQL** — schema design and full CRUD data access.
+- **REST APIs** — building CRUD endpoints and integrating APIs into web applications.
+
+---
+
+### Featured Projects
+
+| Project | Stack | Overview | Live |
+| :--- | :--- | :--- | :--- |
+| **[chatapp-frontend](https://github.com/SMFaysalHaque/chatapp-frontend)** | Next.js · React · TypeScript · Socket.IO | Real-time messaging app — direct &amp; group chats, unread badges, message history with cursor-based pagination and optimistic UI. | [Demo](https://chatapp-chatty.vercel.app) |
+| **[signal-location-app-react](https://github.com/SMFaysalHaque/signal-location-app-react)** | React · SignalR · Leaflet | Real-time location sharing — live location updates between users through a custom React SignalR hook, rendered on an interactive map. | [Demo](https://signal-location-app-smfaysalhaque.netlify.app) |
+| **[go-postgresql](https://github.com/SMFaysalHaque/go-postgresql)** | Go · PostgreSQL · gorilla/mux | RESTful CRUD API with full create / read / update / delete endpoints over a PostgreSQL database. | — |
+| **[elegant-living](https://github.com/SMFaysalHaque/elegant-living)** | React · Vite · Tailwind CSS | E-commerce furniture store — cart, quantity management, and an order flow with form validation. | [Demo](https://elegant-living.vercel.app) |
+| **[Zaptrade](https://github.com/SMFaysalHaque/Zaptrade)** | Nuxt · Vue · Tailwind CSS | Crypto-trading landing experience — component-driven UI with trending-token cards and market sections. | [Demo](https://zaptrade-delta.vercel.app) |
+
+---
+
+### Education
+
+**B.Sc. in Computer Science and Engineering**<br/>
+Daffodil International University · 2021
+
+---
+
+<p align="center">
+  <a href="https://smfaysalhaque.vercel.app/">smfaysalhaque.vercel.app</a>
+  &nbsp;·&nbsp; Dhaka, Bangladesh &nbsp;·&nbsp; Open to remote &amp; on-site
+</p>
