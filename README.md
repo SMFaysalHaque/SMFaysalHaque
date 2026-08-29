@@ -151,11 +151,10 @@ Frontend development with **Vue.js, Nuxt.js, and React**.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMFaysalHaque/SMFaysalHaque/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMFaysalHaque/SMFaysalHaque/output/github-snake.svg" />
-  <img alt="Snake animation traversing SMFaysalHaque's GitHub contribution graph" src="https://raw.githubusercontent.com/SMFaysalHaque/SMFaysalHaque/output/github-snake.svg" />
-</picture>
+<a href="https://github.com/SMFaysalHaque">
+  <img alt="SMFaysalHaque's GitHub contribution graph over the last year" src="assets/contributions-dark.svg#gh-dark-mode-only" />
+  <img alt="SMFaysalHaque's GitHub contribution graph over the last year" src="assets/contributions-light.svg#gh-light-mode-only" />
+</a>
 
 </div>
 
