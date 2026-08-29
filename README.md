@@ -147,19 +147,6 @@ Frontend development with **Vue.js, Nuxt.js, and React**.
 
 ---
 
-### 📈 GitHub Contributions
-
-<div align="center">
-
-<a href="https://github.com/SMFaysalHaque">
-  <img alt="SMFaysalHaque's GitHub contribution graph over the last year" src="assets/contributions-dark.svg#gh-dark-mode-only" />
-  <img alt="SMFaysalHaque's GitHub contribution graph over the last year" src="assets/contributions-light.svg#gh-light-mode-only" />
-</a>
-
-</div>
-
----
-
 ### ⚡ Engineering Highlights
 
 <table>
