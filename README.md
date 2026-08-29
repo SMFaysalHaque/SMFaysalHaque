@@ -96,7 +96,7 @@ Frontend development with **Vue.js, Nuxt.js, and React**.
       <p>Real-time messaging app with direct &amp; group conversations.</p>
       <p><sub>Unread indicators · message history · cursor-based pagination · optimistic UI</sub></p>
       <a href="https://github.com/SMFaysalHaque/chatapp-frontend">Code</a> &nbsp;·&nbsp;
-      <a href="https://chatapp-chatty.vercel.app/">Live Demo</a>
+      <a href="https://chatty-home.vercel.app/">Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>signal-location-app-react &nbsp;<sub>★ Featured</sub></h3>
