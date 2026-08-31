@@ -120,6 +120,16 @@ Frontend development with **Nuxt, Vue, and React**.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>smart-todo &nbsp;<sub>★ Featured</sub></h3>
+      <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      <p>Full-stack rich-text task manager with JWT auth, per-user authorization, REST APIs, and database-backed CRUD.</p>
+      <p><sub>Refresh-token rotation &amp; bcrypt hashing · Tiptap structured-JSON storage · Zod validation (client &amp; server) · feature-based architecture</sub></p>
+      <a href="https://github.com/SMFaysalHaque/smart-todo">Code</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>chatapp-frontend &nbsp;<sub>★ Featured</sub></h3>
       <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
       <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -130,6 +140,8 @@ Frontend development with **Nuxt, Vue, and React**.
       <a href="https://github.com/SMFaysalHaque/chatapp-frontend">Code</a> &nbsp;·&nbsp;
       <a href="https://chatty-home.vercel.app/">Live Demo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>signal-location-app-react &nbsp;<sub>★ Featured</sub></h3>
       <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -140,8 +152,6 @@ Frontend development with **Nuxt, Vue, and React**.
       <a href="https://github.com/SMFaysalHaque/signal-location-app-react">Code</a> &nbsp;·&nbsp;
       <a href="https://signal-location-app-smfaysalhaque.netlify.app/">Live Demo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>go-postgresql</h3>
       <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
@@ -151,6 +161,8 @@ Frontend development with **Nuxt, Vue, and React**.
       <p><sub>Full create / read / update / delete endpoints · routing with gorilla/mux</sub></p>
       <a href="https://github.com/SMFaysalHaque/go-postgresql">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>elegant-living</h3>
       <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -161,8 +173,6 @@ Frontend development with **Nuxt, Vue, and React**.
       <a href="https://github.com/SMFaysalHaque/elegant-living">Code</a> &nbsp;·&nbsp;
       <a href="https://elegant-living.vercel.app/">Live Demo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>Zaptrade</h3>
       <img src="https://img.shields.io/badge/Nuxt-0D1117?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt" />
@@ -173,7 +183,6 @@ Frontend development with **Nuxt, Vue, and React**.
       <a href="https://github.com/SMFaysalHaque/Zaptrade">Code</a> &nbsp;·&nbsp;
       <a href="https://zaptrade-delta.vercel.app/">Live Demo</a>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
