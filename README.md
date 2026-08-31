@@ -127,7 +127,8 @@ Frontend development with **Nuxt, Vue, and React**.
       <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
       <p>Full-stack rich-text task manager with JWT auth, per-user authorization, REST APIs, and database-backed CRUD.</p>
       <p><sub>Refresh-token rotation &amp; bcrypt hashing · Tiptap structured-JSON storage · Zod validation (client &amp; server) · feature-based architecture</sub></p>
-      <a href="https://github.com/SMFaysalHaque/smart-todo">Code</a>
+      <a href="https://github.com/SMFaysalHaque/smart-todo">Code</a> &nbsp;·&nbsp;
+      <a href="https://smarttodoapp.vercel.app/">Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>chatapp-frontend &nbsp;<sub>★ Featured</sub></h3>
