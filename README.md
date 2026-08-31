@@ -50,7 +50,7 @@ Building production web applications with<br/>
 **UI &amp; Styling**
 
 <p>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />&nbsp;<img src="https://img.shields.io/badge/Material_UI-0D1117?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI" />&nbsp;<img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui" />&nbsp;<img src="https://img.shields.io/badge/Radix_UI-0D1117?style=flat-square&logo=radixui&logoColor=FFFFFF" alt="Radix UI" />&nbsp;<img src="https://img.shields.io/badge/Vuetify-0D1117?style=flat-square&logo=vuetify&logoColor=1867C0" alt="Vuetify" />&nbsp;<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />&nbsp;<img src="https://img.shields.io/badge/Material_UI-0D1117?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI" />&nbsp;<img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui" />&nbsp;<img src="https://img.shields.io/badge/Radix_UI-0D1117?style=flat-square&logo=radixui&logoColor=FFFFFF" alt="Radix UI" />&nbsp;<img src="https://img.shields.io/badge/Vuetify-0D1117?style=flat-square&logo=vuetify&logoColor=1867C0" alt="Vuetify" />&nbsp;<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />&nbsp;<img src="https://img.shields.io/badge/Tiptap-0D1117?style=flat-square&logo=tiptap&logoColor=FFFFFF" alt="Tiptap" />
 </p>
 
 **State &amp; Forms**
@@ -74,7 +74,7 @@ Building production web applications with<br/>
 **Auth &amp; Backend**
 
 <p>
-<img src="https://img.shields.io/badge/NextAuth.js-0D1117?style=flat-square&logo=authjs&logoColor=FFFFFF" alt="NextAuth.js / Auth.js" />&nbsp;<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />&nbsp;<img src="https://img.shields.io/badge/Gorilla_Mux-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Gorilla Mux" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />&nbsp;<img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />&nbsp;<img src="https://img.shields.io/badge/NextAuth.js-0D1117?style=flat-square&logo=authjs&logoColor=FFFFFF" alt="NextAuth.js / Auth.js" />&nbsp;<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT" />&nbsp;<img src="https://img.shields.io/badge/bcrypt-0D1117?style=flat-square" alt="bcrypt" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />&nbsp;<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />&nbsp;<img src="https://img.shields.io/badge/Mongoose-0D1117?style=flat-square&logo=mongoose&logoColor=880000" alt="Mongoose" />&nbsp;<img src="https://img.shields.io/badge/Gorilla_Mux-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Gorilla Mux" />
 </p>
 
 **i18n &amp; Tooling**
