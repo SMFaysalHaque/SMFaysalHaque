@@ -5,7 +5,7 @@
 **Software Engineer**
 
 Building production web applications with<br/>
-**React · Next.js · TypeScript · Vue · Nuxt · Go · PostgreSQL**
+**React · Next.js · TypeScript · Vue · Nuxt · Node.js · Express.js · Go · PostgreSQL · MongoDB**
 
 <br/>
 
@@ -71,10 +71,16 @@ Building production web applications with<br/>
 <img src="https://img.shields.io/badge/Socket.IO-0D1117?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO" />&nbsp;<img src="https://img.shields.io/badge/SignalR-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4" alt="SignalR" />
 </p>
 
-**Auth &amp; Backend**
+**Runtime &amp; Backend**
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />&nbsp;<img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />&nbsp;<img src="https://img.shields.io/badge/NextAuth.js-0D1117?style=flat-square&logo=authjs&logoColor=FFFFFF" alt="NextAuth.js / Auth.js" />&nbsp;<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT" />&nbsp;<img src="https://img.shields.io/badge/bcrypt-0D1117?style=flat-square" alt="bcrypt" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />&nbsp;<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />&nbsp;<img src="https://img.shields.io/badge/Mongoose-0D1117?style=flat-square&logo=mongoose&logoColor=880000" alt="Mongoose" />&nbsp;<img src="https://img.shields.io/badge/Gorilla_Mux-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Gorilla Mux" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />&nbsp;<img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />&nbsp;<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />&nbsp;<img src="https://img.shields.io/badge/Gorilla_Mux-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Gorilla Mux" />
+</p>
+
+**Auth &amp; Databases**
+
+<p>
+<img src="https://img.shields.io/badge/NextAuth.js-0D1117?style=flat-square&logo=authjs&logoColor=FFFFFF" alt="NextAuth.js / Auth.js" />&nbsp;<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT" />&nbsp;<img src="https://img.shields.io/badge/bcrypt-0D1117?style=flat-square" alt="bcrypt" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />&nbsp;<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />&nbsp;<img src="https://img.shields.io/badge/Mongoose-0D1117?style=flat-square&logo=mongoose&logoColor=880000" alt="Mongoose" />
 </p>
 
 **i18n &amp; Tooling**
