@@ -111,6 +111,41 @@ export const projects: Project[] = [
 
   // ---- Personal projects ----
   {
+    slug: "smart-todo",
+    title: "Smart Todo",
+    description:
+      "A full-stack rich-text task manager where each user manages personal todos written in a Tiptap editor and stored as structured JSON. Built with Next.js and TypeScript on the front end and an Express.js + MongoDB backend, with JWT authentication and strict per-user authorization.",
+    highlights: [
+      "Implemented email/password auth with bcrypt hashing, short-lived JWT access tokens (15 min), and HttpOnly refresh tokens (7 days) stored SHA-256-hashed",
+      "Built a Tiptap v2 rich-text editor (headings, lists, checkboxes, color, font weight) that persists content as validated structured JSON rather than HTML",
+      "Enforced per-user ownership with owner-scoped queries, returning 404 for both missing and unauthorized todos so record IDs can't be probed",
+      "Added full CRUD, status filtering (All / Active / Completed), and database-level pagination with Previous/Next controls",
+      "Validated every request boundary with Zod on both client and server, checking rich-text content against a controlled node/mark allow-list",
+      "Structured the app as a feature-sliced Next.js frontend and a layered Express backend (controllers, middleware, models, routes, schemas)",
+    ],
+    tech: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Tiptap",
+      "React Hook Form",
+      "Zod",
+      "next-themes",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "JWT",
+      "bcrypt",
+    ],
+    links: [
+      { label: "Repo", url: "https://github.com/SMFaysalHaque/smart-todo" },
+      { label: "Live", url: "https://smarttodoapp.vercel.app/" },
+    ],
+    category: "personal",
+  },
+  {
     slug: "tea-and-tales",
     title: "Tea & TALES",
     description:

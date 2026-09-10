@@ -7,11 +7,19 @@ export const skillGroups: SkillGroup[] = [
   },
   {
     category: "Backend & Databases",
-    items: ["Go (Golang)", "PostgreSQL", "RESTful API design with Gorilla Mux"],
+    items: [
+      "Node.js",
+      "Express.js",
+      "Go (Golang)",
+      "PostgreSQL",
+      "MongoDB",
+      "Mongoose",
+      "RESTful API design with Gorilla Mux",
+    ],
   },
   {
     category: "Frameworks & Libraries",
-    items: ["React", "Next", "Vue", "Nuxt", "Vuex", "Pinia", "Zustand", "Axios", "Apollo"],
+    items: ["React", "Next", "Vue", "Nuxt", "Vuex", "Pinia", "Zustand", "Axios", "Apollo", "Tiptap"],
   },
   {
     category: "UI Component Libraries",
@@ -23,7 +31,7 @@ export const skillGroups: SkillGroup[] = [
   },
   {
     category: "Authentication",
-    items: ["NextAuth.js / Auth.js (v4 & v5)", "JWT"],
+    items: ["NextAuth.js / Auth.js (v4 & v5)", "JWT", "bcrypt"],
   },
   {
     category: "Data Visualization",
