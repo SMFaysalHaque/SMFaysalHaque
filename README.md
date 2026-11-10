@@ -28,7 +28,7 @@ Building production web applications with<br/>
 ### 🧭 About
 
 - **Software Engineer** with **3+ years** building fast, accessible, and maintainable production web applications.
-- Deep frontend expertise across the **React / Next.js** and **Vue / Nuxt** ecosystems, with hands-on **Go** and **PostgreSQL** work.
+- Deep frontend expertise across the **React / Next.js** and **Vue / Nuxt** ecosystems, with hands-on **Go**, **Express**, **MongoDB** and **PostgreSQL** work.
 - I care about clean architecture, type safety, and interfaces that feel effortless to use.
 
 ---
