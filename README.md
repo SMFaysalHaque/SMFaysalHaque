@@ -100,7 +100,7 @@ Building production web applications with<br/>
 ### 💼 Professional Experience
 
 **Junior Software Engineer** &nbsp;—&nbsp; **TechnoNext Software Limited**<br/>
-<sub>`Sep 2025 — Present`</sub>
+<sub>`Sep 2025 — Aug 2026`</sub>
 
 Building production web applications with **Next.js 16, React 19, and TypeScript**.
 
