@@ -6,7 +6,7 @@
 <!-- TYPING INTRO -->
 <p align="center">
   <a href="https://smfaysalhaque.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Faysal;Software+Engineer+from+Dhaka+%F0%9F%87%A7%F0%9F%87%A9;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+Go+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+MongoDB;I+build+fast%2C+accessible+web+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full+Stack+Development+%7C+Exploring+AI+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
