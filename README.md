@@ -140,14 +140,6 @@
 
 ---
 
-### 📈 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMFaysalHaque&bg_color=0D1117&color=58A6FF&line=1A73E8&point=FFFFFF&area=true&area_color=1A73E8&hide_border=true&custom_title=Contribution%20Graph" alt="S. M. Faysal Haque's GitHub contribution graph" width="100%" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 <table>
