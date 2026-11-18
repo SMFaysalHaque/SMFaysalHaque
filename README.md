@@ -1,17 +1,13 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0D1117&height=220&section=header&text=S.%20M.%20Faysal%20Haque&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Frontend%20%7C%20Full-Stack&descAlignY=60&descSize=20&animation=fadeIn" alt="S. M. Faysal Haque banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0D1117&height=220&section=header&text=S.%20M.%20Faysal%20Haque&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descAlignY=60&descSize=20&animation=fadeIn" alt="S. M. Faysal Haque banner" />
 </p>
 
 <!-- TYPING INTRO -->
 <p align="center">
   <a href="https://smfaysalhaque.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Faysal;Software+Engineer+from+Dhaka+%F0%9F%87%A7%F0%9F%87%A9;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+Go;I+build+fast%2C+accessible+web+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Faysal;Software+Engineer+from+Dhaka+%F0%9F%87%A7%F0%9F%87%A9;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+Go+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+MongoDB;I+build+fast%2C+accessible+web+apps" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SMFaysalHaque&label=Profile%20views&color=1a73e8&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -22,7 +18,7 @@
 - ⚡ Deep frontend expertise across the **React / Next.js** and **Vue / Nuxt** ecosystems, with hands-on **Go**, **Express**, **MongoDB**, and **PostgreSQL** work.
 - 🧱 I care about clean architecture, type safety, and interfaces that feel effortless to use.
 - 🌐 Currently shipping production apps with **Next.js 16, React 19, and TypeScript**.
-- 🌱 Always learning — exploring backend systems with **Go** and distributed data patterns.
+- 🌱 Always learning — exploring backend systems with **Go**, **Node.js**, and **Express.js**, plus distributed data patterns.
 - 📫 Reach me at **smfaysalhaque007@gmail.com**
 - 📄 Portfolio → **[smfaysalhaque.vercel.app](https://smfaysalhaque.vercel.app/)**
 - 📍 Based in **Dhaka, Bangladesh** · Open to remote &amp; on-site.
@@ -69,16 +65,15 @@
   &nbsp;
   <img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui" height="28" />
   <img src="https://img.shields.io/badge/Radix_UI-0D1117?style=flat-square&logo=radixui&logoColor=FFFFFF" alt="Radix UI" height="28" />
-  <img src="https://img.shields.io/badge/Tiptap-0D1117?style=flat-square&logo=tiptap&logoColor=FFFFFF" alt="Tiptap" height="28" />
+  <img src="https://img.shields.io/badge/Tiptap-0D1117?style=flat-square" alt="Tiptap" height="28" />
 </p>
 
 **State, Forms &amp; Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux,graphql,apollo" alt="State and Data" />
+  <img src="https://skillicons.dev/icons?i=redux,pinia,graphql,apollo" alt="State and Data" />
   &nbsp;
   <img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square" alt="Zustand" height="28" />
-  <img src="https://img.shields.io/badge/Pinia-0D1117?style=flat-square&logo=pinia&logoColor=FFD859" alt="Pinia" height="28" />
   <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" height="28" />
   <img src="https://img.shields.io/badge/React_Hook_Form-0D1117?style=flat-square&logo=reacthookform&logoColor=EC5990" alt="React Hook Form" height="28" />
   <img src="https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=3E67B1" alt="Zod" height="28" />
@@ -91,7 +86,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Mongoose-0D1117?style=flat-square&logo=mongoose&logoColor=880000" alt="Mongoose" height="28" />
   <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT" height="28" />
-  <img src="https://img.shields.io/badge/NextAuth.js-0D1117?style=flat-square&logo=authjs&logoColor=FFFFFF" alt="NextAuth.js" height="28" />
+  <img src="https://img.shields.io/badge/NextAuth.js-0D1117?style=flat-square" alt="NextAuth.js" height="28" />
 </p>
 
 **Real-time**
