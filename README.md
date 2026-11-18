@@ -49,20 +49,31 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,go,c" alt="Languages" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="28" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" height="28" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" height="28" />
+  <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" height="28" />
 </p>
 
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,astro,html,css" alt="Frontend" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="28" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" height="28" />
+  <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" height="28" />
+  <img src="https://img.shields.io/badge/Nuxt-0D1117?style=flat-square&logo=nuxt&logoColor=00DC82" alt="Nuxt" height="28" />
+  <img src="https://img.shields.io/badge/Astro-0D1117?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro" height="28" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" height="28" />
+  <img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=663399" alt="CSS" height="28" />
 </p>
 
 **UI &amp; Styling**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,vuetify,bootstrap" alt="UI and Styling" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" height="28" />
+  <img src="https://img.shields.io/badge/Material_UI-0D1117?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI" height="28" />
+  <img src="https://img.shields.io/badge/Vuetify-0D1117?style=flat-square&logo=vuetify&logoColor=1867C0" alt="Vuetify" height="28" />
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="28" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui" height="28" />
   <img src="https://img.shields.io/badge/Radix_UI-0D1117?style=flat-square&logo=radixui&logoColor=FFFFFF" alt="Radix UI" height="28" />
   <img src="https://img.shields.io/badge/Tiptap-0D1117?style=flat-square" alt="Tiptap" height="28" />
@@ -71,8 +82,10 @@
 **State, Forms &amp; Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux,pinia,graphql,apollo" alt="State and Data" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" height="28" />
+  <img src="https://img.shields.io/badge/Pinia-0D1117?style=flat-square&logo=pinia&logoColor=FFD859" alt="Pinia" height="28" />
+  <img src="https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL" height="28" />
+  <img src="https://img.shields.io/badge/Apollo-0D1117?style=flat-square&logo=apollographql&logoColor=311C87" alt="Apollo GraphQL" height="28" />
   <img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square" alt="Zustand" height="28" />
   <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" height="28" />
   <img src="https://img.shields.io/badge/React_Hook_Form-0D1117?style=flat-square&logo=reacthookform&logoColor=EC5990" alt="React Hook Form" height="28" />
@@ -82,8 +95,11 @@
 **Backend &amp; Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,postgres,mongodb" alt="Backend and Databases" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" height="28" />
+  <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" height="28" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" height="28" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" height="28" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" height="28" />
   <img src="https://img.shields.io/badge/Mongoose-0D1117?style=flat-square&logo=mongoose&logoColor=880000" alt="Mongoose" height="28" />
   <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT" height="28" />
   <img src="https://img.shields.io/badge/NextAuth.js-0D1117?style=flat-square" alt="NextAuth.js" height="28" />
@@ -99,7 +115,14 @@
 **Tooling &amp; Dev Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vite,vitest,git,github,gitlab,vscode,figma,linux" alt="Tooling" />
+  <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" height="28" />
+  <img src="https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" height="28" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" height="28" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" height="28" />
+  <img src="https://img.shields.io/badge/GitLab-0D1117?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" height="28" />
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=vscodium&logoColor=007ACC" alt="VS Code" height="28" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" height="28" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" height="28" />
 </p>
 
 ---
