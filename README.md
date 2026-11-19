@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0D1117&height=220&section=header&text=S.%20M.%20Faysal%20Haque&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descAlignY=60&descSize=20&animation=fadeIn" alt="S. M. Faysal Haque banner" />
+  <img src="assets/banner.svg" alt="S. M. Faysal Haque — Software Engineer | Full Stack Developer" width="100%" />
 </p>
 
 <!-- TYPING INTRO -->
