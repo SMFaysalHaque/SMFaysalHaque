@@ -123,9 +123,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMFaysalHaque&layout=compact&theme=tokyonight&hide_border=true&card_width=350" alt="Top Languages" />
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SMFaysalHaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SMFaysalHaque&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMFaysalHaque&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
