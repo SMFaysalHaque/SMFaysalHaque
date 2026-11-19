@@ -3,13 +3,6 @@
   <img src="assets/banner.svg" alt="S. M. Faysal Haque — Software Engineer | Full Stack Developer" width="100%" />
 </p>
 
-<!-- TYPING INTRO -->
-<p align="center">
-  <a href="https://smfaysalhaque.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Exploring+AI+Engineering" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ### 🧭 About Me
@@ -130,12 +123,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SMFaysalHaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMFaysalHaque&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMFaysalHaque&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SMFaysalHaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SMFaysalHaque&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMFaysalHaque&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -251,7 +241,5 @@
 <a href="https://www.linkedin.com/in/s-m-faysal-haque/">LinkedIn</a>
 &nbsp;·&nbsp;
 <a href="mailto:smfaysalhaque007@gmail.com">Email</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a73e8&height=120&section=footer" alt="footer" />
 
 </div>
