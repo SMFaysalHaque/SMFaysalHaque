@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="assets/banner.svg" alt="S. M. Faysal Haque — Software Engineer | Full Stack Developer" width="100%" />
+  <img src="assets/banner.svg" alt="S. M. Faysal Haque — Full Stack Software Engineer" width="100%" />
 </p>
 
 ---
